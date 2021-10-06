@@ -8,7 +8,7 @@ ARM core인 STM32f4를 사용해서 알람 시계 프로젝트를 만들어보�
 https://youtu.be/ASdZDDtxkZc
 
 ## 1. 프로젝트 목표
-- STM32F4보드에서 임베디드 각 기능들을 이용하여 알람시계를 구현한다.
+- ARM core인 STM32F4보드에서 임베디드 각 기능들을 이용하여 알람시계를 구현한다.
 
 ![image](https://user-images.githubusercontent.com/81784631/135090650-4fdbfe6f-7d0c-40af-844c-9b4d829da39e.png)
 
